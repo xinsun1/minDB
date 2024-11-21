@@ -4,4 +4,4 @@ A minimum database backend
 
 test
 
-test v0.3
+test v0.4
